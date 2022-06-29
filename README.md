@@ -1,4 +1,4 @@
-#Codecademy_React_Jammming
+# Codecademy_React_Jammming
 A Codecademy ReactJS practice project using Spotify APIs
 
 note: node_modules folder was omitted for size reasons.
