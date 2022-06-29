@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#Codecademy_React_Jammming
+A Codecademy ReactJS practice project using Spotify APIs
+
+note: node_modules folder was omitted for size reasons.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
